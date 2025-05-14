@@ -2,13 +2,6 @@
 
 ### Iniciante na área da programação e apaixonado por tecnologia❤
 
-<div align="center">
-  <a href="https://github.com/DanielArujo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielArujo&show_icons=true&theme=dracula&icon_color=white&title_color=red&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielArujo&layout=compact&langs_count=7&theme=dracula&icon_color=white&title_color=red">
-  </a>
-</div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
